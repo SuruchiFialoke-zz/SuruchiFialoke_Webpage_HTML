@@ -8,7 +8,7 @@ body {
 	font-family:"Adobe Garamond Pro Bold", Georgia, "Times New Roman", Times, serif;
 	font-size: 13px;
 	color: #000000;
-	background: #000000 url(background.png);
+	background: #000000 url(Images/background.png);
 	background-repeat:repeat-x;
 }
 *
@@ -56,7 +56,7 @@ display: block;
 width:121px;
 height: 35px;
 line-height: 35px;
-background-image:url(tab.png);
+background-image:url(Images/tab.png);
 border-bottom:none;
 }
 
@@ -75,7 +75,7 @@ width:650px;
 height:325px;
 top:10px;
 margin-left:10px;
-background-image:url(myPicture.jpeg);
+background-image:url(Images/myPicture.jpeg);
 background-repeat:no-repeat;
 }
 
@@ -190,5 +190,21 @@ html, body {
 text-align: center;
 }
 p {text-align: left;}
+
+.sm-icon{
+    width: 45px;
+    margin-left:6px;
+    margin-right:6px;
+}
+img.sm-icon:hover{
+    opacity:0.5;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+}
+#footer	{ width:100%;
+    font-size:80%; color:#666666;
+    padding:10px; text-align:center;
+    border-top:1px solid #666666; }
 
 

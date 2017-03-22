@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F2CCF6B91E8221C3002B084F /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = index.html; path = ../index.html; sourceTree = "<group>"; };
+		F2CCF6BA1E8221D4002B084F /* Research.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Research.html; path = ../Research.html; sourceTree = "<group>"; };
+		F2CCF6BB1E8221D4002B084F /* Resume.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Resume.html; path = ../Resume.html; sourceTree = "<group>"; };
+		F2CCF6BC1E8221D4002B084F /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = style.css; path = ../style.css; sourceTree = "<group>"; };
+		F2CCF6BD1E82308B002B084F /* Projects.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Projects.html; path = ../Projects.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F2CCF6B21E8221AA002B084F = {
+			isa = PBXGroup;
+			children = (
+				F2CCF6B91E8221C3002B084F /* index.html */,
+				F2CCF6BA1E8221D4002B084F /* Research.html */,
+				F2CCF6BD1E82308B002B084F /* Projects.html */,
+				F2CCF6BB1E8221D4002B084F /* Resume.html */,
+				F2CCF6BC1E8221D4002B084F /* style.css */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F2CCF6B31E8221AA002B084F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+			};
+			buildConfigurationList = F2CCF6B61E8221AA002B084F /* Build configuration list for PBXProject "MySite" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F2CCF6B21E8221AA002B084F;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F2CCF6B71E8221AA002B084F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F2CCF6B81E8221AA002B084F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F2CCF6B61E8221AA002B084F /* Build configuration list for PBXProject "MySite" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F2CCF6B71E8221AA002B084F /* Debug */,
+				F2CCF6B81E8221AA002B084F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F2CCF6B31E8221AA002B084F /* Project object */;
+}
